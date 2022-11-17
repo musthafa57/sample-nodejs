@@ -6,3 +6,4 @@ EXPOSE 3000
 CMD [ "npm","start" ] 
 this is extra data added
 hi this is musthafa i am learning the devops
+fazAL IS BRO he is gng to vijayawada today
